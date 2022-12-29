@@ -22,4 +22,5 @@ TOOL SET
 CONCLUSION   
 So, this project named “WORDIFY” which is in the form of an android application, will help people in learning or studying in an interactive way by playing games and enhance vocabulary and at the end when people use this app, they will get lots of benefits from it.
 
-![plot](Screenshot_20221229-113355.jpg)
+![](Screenshot_20221229-113355.jpg.png =250x250)
+
